@@ -1,5 +1,4 @@
-# 👋 Hello! Welcome to my Github profile
-# My name is João Pedro and my nickname is "jao"!
+# 👋 Hello! Welcome to my Github profile. My name is João Pedro and my nickname is "jao"!
 
 ![Snake animation](https://github.com/joaopedrojesus1/joaopedrojesus1/output/github-contribution-grid-snake.svg)
 
@@ -9,7 +8,7 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrojesus1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Tecnologias(Front)
+## Tecnologias/especialização(Front-End)
 <div class= "display-flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
