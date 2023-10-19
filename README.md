@@ -2,7 +2,8 @@
 
 
 
-![snake gif](https://github.com/joaopedrojesus1/joaopedrojesus1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/joaopedrojesus1/joaopedrojesus1/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   <a href="https://github.com/joaopedrojesus1">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrojesus1&layout=compact&langs_count=7&theme=dracula"/>
