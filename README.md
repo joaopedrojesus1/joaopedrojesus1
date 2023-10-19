@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is João Pedro and my nickname is "jao"!
-<!--
+
 ![Snake animation](https://github.com/joaopedrojesus1/joaopedrojesus1/output/github-contribution-grid-snake.svg)
 
 <div>
@@ -18,6 +18,7 @@
 
 ##Contatos
   <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<!--
  
 
 Here are some ideas to get you started:
