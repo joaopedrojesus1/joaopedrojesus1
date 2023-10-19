@@ -2,6 +2,7 @@
 
 
 
+![snake gif](https://github.com/joaopedrojesus1/joaopedrojesus1/blob/output/github-contribution-grid-snake.gif)
 <div>
   <a href="https://github.com/joaopedrojesus1">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrojesus1&layout=compact&langs_count=7&theme=dracula"/>
@@ -35,4 +36,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/joaopedrojesus1/joaopedrojesus1/blob/output/github-contribution-grid-snake.gif)
