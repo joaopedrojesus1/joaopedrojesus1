@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile. My name is João Pedro and my nickname is "jao"!
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 
 <div>
   <a href="https://github.com/joaopedrojesus1">
@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
