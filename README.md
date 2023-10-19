@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-  ![Snake animation](https://github.com/joaopedrojesus1/joaopedrojesus1/output/github-contribution-grid-snake.svg)
 <!--
 
+  ![Snake animation](https://github.com/joaopedrojesus1/joaopedrojesus1/output/github-contribution-grid-snake.svg)
 
  
 
