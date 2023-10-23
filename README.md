@@ -1,4 +1,5 @@
-# 👋 Hello! Welcome to my Github profile. My name is João Pedro and my nickname is "jao"!
+# 👋 Hello! Welcome to my Github profile.<br>
+## My name is João Pedro and my nickname is "jao"!
 
 
 
