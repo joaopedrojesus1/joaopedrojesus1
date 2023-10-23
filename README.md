@@ -31,7 +31,7 @@ I'm a front-end developer passionate about creating attractive and interactive u
 </div>
 
 ## Contatos
-  <a href="https://www.linkedin.com/in/joão-pedro-jesus-290b64261" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-pedro-jesus-290b64261" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 ![snake gif](https://github.com/joaopedrojesus1/joaopedrojesus1/blob/output/github-contribution-grid-snake.svg)
 <!--
   
