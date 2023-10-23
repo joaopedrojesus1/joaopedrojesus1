@@ -11,7 +11,7 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrojesus1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Sobre Mim
+## Sobre Mim/ About me.
 ### (Português)
 Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário atraentes e interativas. Tenho experiência em projetos web com foco em design responsivo e usabilidade. Sempre estou buscando aprender e aprimorar minhas habilidades em desenvolvimento web.
 
