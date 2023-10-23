@@ -1,3 +1,4 @@
+
 # 👋 Hello! Welcome to my Github profile.<br>
 *My name is João Pedro and my nickname is "jao"!* 
 
@@ -11,7 +12,11 @@
 </div>
 
 ## Sobre Mim
+### (Português)
 Sou um desenvolvedor front-end apaixonado por criar interfaces de usuário atraentes e interativas. Tenho experiência em projetos web com foco em design responsivo e usabilidade. Sempre estou buscando aprender e aprimorar minhas habilidades em desenvolvimento web.
+
+### (Inglês)
+I'm a front-end developer passionate about creating attractive and interactive user interfaces. I have experience in web projects with a focus on responsive design and usability. I'm always looking to learn and improve my web development skills.
 
 ## Tecnologias/especialização(Front-End)
 <div class= "display-flex">
